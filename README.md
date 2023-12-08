@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Crypto Hunter
+Crypto Hunter is an advanced React.js web application integrated with CoinGecko APIs and Chart.js 2. It offers real-time cryptocurrency data, dynamic chart visualization, and user-friendly search functionality for a comprehensive digital asset experience.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Key Features
+React.js Framework: Ensures a responsive and modular application, providing a smooth user experience.
 
-## Available Scripts
+CoinGecko API Integration: Seamless access to accurate and up-to-date cryptocurrency information from various exchanges.
 
-In the project directory, you can run:
+Currency Conversion: Effortless toggling between dollar and rupee values for personalized fiat currency viewing.
 
-### `npm start`
+Interactive Charts with Chart.js 2: Utilizes Chart.js 2 for dynamic and interactive charts, offering insights into cryptocurrency trends.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Ups and Downs Visualization: Intuitive chart representations make it easy to track cryptocurrency performance over time.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Search Functionality: User-friendly search feature for quick and easy access to specific cryptocurrencies.
 
-### `npm test`
+# Getting Started
+Clone the repository: git clone 
+Install dependencies: npm install
+Start the development server: npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Website link
+Website link- https://crypto-tracker-yashasvi.netlify.app/
 
-### `npm run build`
+# Contributing
+We welcome contributions to enhance Crypto Hunter. Feel free to open issues or submit pull requests for suggestions, improvements, or bug fixes.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Acknowledgments
+Special thanks to CoinGecko for providing robust APIs.
+Utilizes Chart.js 2 for visually appealing and informative charts.
+Explore the dynamic world of cryptocurrencies with Crypto Hunter, featuring advanced charting capabilities and a seamless search experience!
